@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Weather App Colors -->
+    <color name="primary_blue">#1E88E5</color>
+    <color name="primary_blue_dark">#1565C0</color>
+    <color name="primary_blue_light">#42A5F5</color>
+    
+    <color name="accent_orange">#FF7043</color>
+    <color name="accent_orange_light">#FFAB91</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_light_gray">#BDBDBD</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#667eea</color>
+    <color name="gradient_middle">#764ba2</color>
+    <color name="gradient_end">#f093fb</color>
+    
+    <!-- Weather Condition Colors -->
+    <color name="sunny_start">#FFD54F</color>
+    <color name="sunny_end">#FF8A65</color>
+    <color name="cloudy_start">#90CAF9</color>
+    <color name="cloudy_end">#64B5F6</color>
+    <color name="rainy_start">#81C784</color>
+    <color name="rainy_end">#4FC3F7</color>
+    
+    <!-- Status Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_amber">#FF9800</color>
+    <color name="error_red">#F44336</color>
+    
+    <!-- Transparent Colors -->
+    <color name="white_transparent_50">#80FFFFFF</color>
+    <color name="black_transparent_20">#33000000</color>
+    <color name="blue_transparent_30">#4D1E88E5</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherX</string>
+    <string name="search_city">Search city...</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="forecast_title">5-Day Forecast</string>
+    <string name="news_title">Weather News</string>
+    <string name="feels_like">Feels like %1$d°C</string>
+    <string name="location_permission_denied">Location permission denied. Using default city.</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="news_image">News image</string>
+</resources>
