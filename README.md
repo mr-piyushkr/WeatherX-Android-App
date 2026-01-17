@@ -8,7 +8,6 @@
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen?style=flat-square)](https://android-arsenal.com/api?level=24)
 [![Language](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)](https://java.com)
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM-purple?style=flat-square)](https://developer.android.com/jetpack/guide)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 *A beautiful, modern Android weather application built with Java using MVVM architecture*
 
