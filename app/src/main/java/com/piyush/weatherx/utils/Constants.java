@@ -1,5 +1,7 @@
 package com.piyush.weatherx.utils;
 
+import com.piyush.weatherx.BuildConfig;
+
 public class Constants {
     // WeatherAPI.com - Free 1M calls/month
     public static final String WEATHER_BASE_URL = "https://api.weatherapi.com/v1/";
