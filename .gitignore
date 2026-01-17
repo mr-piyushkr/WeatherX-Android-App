@@ -38,6 +38,7 @@ captures/
 
 # IntelliJ
 *.iml
+.idea/
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -101,5 +102,3 @@ secrets.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-.idea
