@@ -259,6 +259,11 @@ implementation 'com.github.bumptech.glide:glide:4.16.0'
 
 ---
 
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
 ## 🙏 Acknowledgments
 
 - 🌤️ [WeatherAPI](https://www.weatherapi.com/) for weather data
