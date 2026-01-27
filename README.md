@@ -15,6 +15,10 @@
 
 </div>
 
+🔗 GitHub Repo: [Link](https://github.com/mr-piyushkr/WeatherX-Android-App.git)
+
+📦 APK: [Link](https://github.com/mr-piyushkr/WeatherX-Android-App/releases/tag/v1.0.0-initial-release)
+
 ---
 
 ## ✨ Features
